@@ -10,8 +10,8 @@ In this project 4 different periods have been considered, each one representativ
 * 17 May - 24 May 
 
 For each of this period different task have been done: 
-* [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/edit/master/Text_generation.ipynb)
+* [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Text_generation.ipynb)
 * Sentimenty Analyis 
-* [Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/edit/master/Topic_modelling.ipynb)
+* [Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Topic_modelling.ipynb)
 
-Before performing any taks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/edit/master/Preprocessing.ipynb) phase has been carried out. 
+Before performing any taks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
