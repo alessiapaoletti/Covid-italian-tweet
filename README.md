@@ -13,9 +13,15 @@ Below an resume image with some important Covid italian emergency is reported, w
 ![Covid italian emergency timeline events](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/time.png)
 
 
-For each of this period different task have been done: 
+For each period some explanatory data analysis has been done, in particular: 
+* Find the popular hashtags
+* Find the *protagonists* 
+
+Then, different task have been done: 
 * [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Text_generation.ipynb)
 * Sentimenty Analyis 
 * [Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Topic_modelling.ipynb)
 
 Before performing any taks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
+
+For a detailed report see [Report.pdf] or the [Presentation]. 
