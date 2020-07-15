@@ -9,6 +9,9 @@ In this project 4 different periods have been considered, each one representativ
 * 19 April - 26 April 
 * 17 May - 24 May 
 
+![Covid italian emergency timeline events](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/time.png)
+
+
 For each of this period different task have been done: 
 * [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Text_generation.ipynb)
 * Sentimenty Analyis 
