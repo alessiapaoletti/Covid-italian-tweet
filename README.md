@@ -9,7 +9,7 @@ In this project 4 different periods have been considered, each one representativ
 * 19 April - 26 April 
 * 17 May - 24 May 
 
-![Covid italian emergency timeline events](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/time.png)
+![Covid italian emergency timeline events](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/time.png =250x250)
 
 
 For each of this period different task have been done: 
