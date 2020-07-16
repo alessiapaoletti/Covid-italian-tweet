@@ -17,11 +17,11 @@ For each period some explanatory data analysis has been done, in particular:
 * Find the popular hashtags
 * Find the *protagonists* 
 
-Then, different task have been done: 
+Then, different tasks have been done: 
 * [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Text_generation.ipynb)
 * [Sentimenty Analyis](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Sentiment_analysis.ipynb)
 * [Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Topic_modelling.ipynb)
 
-Before performing any taks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
+Before performing any tasks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
 
 For a detailed report see [Report.pdf]. 
