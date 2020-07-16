@@ -24,4 +24,4 @@ Then, different tasks have been done:
 
 Before performing any tasks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
 
-For a detailed report see [Report.pdf]. 
+For a detailed report see [Report.pdf](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Report.pdf)
