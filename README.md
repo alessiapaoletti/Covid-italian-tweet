@@ -20,7 +20,7 @@ For each period some explanatory data analysis has been done, in particular:
 Then, different tasks have been done: 
 * [Text generation](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Text_generation.ipynb)
 * [Sentimenty Analyis](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Sentiment_analysis.ipynb)
-* [Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Topic_modelling.ipynb)
+* [Clusterin & Topic Modelling](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Topic_modelling.ipynb)
 
 Before performing any tasks, the [Preprocessing](https://github.com/alessiapaoletti/Covid-italian-tweet/blob/master/Preprocessing.ipynb) phase has been carried out. 
 
